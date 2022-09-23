@@ -1,0 +1,5 @@
+rootProject.name = 'mockito_parent'
+include 'mockito_001'
+include 'helloworld'
+include 'mockito_002'
+
